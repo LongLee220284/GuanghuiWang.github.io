@@ -7,11 +7,17 @@ I obtained my Ph.D. in Mathematics from Shandong University and Université Pari
 - **Email:** ghwang[at]sdu.edu.cn 
 
 ### Research Interests
-My research interests include:
+My research focuses on both the fundamental theory of combinatorics and its applications in data science, including:
+
+**Fundamental Theory**
 - Extremal and probabilistic combinatorics  
 - Graph theory and discrete mathematics  
 - Combinatorial optimization  
-- Applications of combinatorics in data science  
+
+**Applications in Data Science**
+- Combinatorics-inspired machine learning models  
+- Graph neural networks and network science  
+- Computational biology and bioinformatics   
 
 ### Awards & Honors
 - Changjiang Distinguished Professor, 2023  
