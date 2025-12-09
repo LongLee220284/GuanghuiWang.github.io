@@ -1,7 +1,7 @@
 Welcome to my homepage!  
 I am currently a Professor at the School of Mathematics, Shandong University.  
 Before joining Shandong University, I was a Professor at École Centrale Paris, and earlier a Postdoctoral Researcher at the Laboratory of Applied Mathematics, École Centrale Paris.  
-I obtained my Ph.D. in Mathematics from Shandong University and Université Paris-Sud (Paris-Saclay) in 2015, supervised by Guizhen Liu and [Hao Li](https://scholar.google.com/citations?user=PpQ96CEAAAAJ&hl=zh-CN).  
+I obtained my Ph.D. in Mathematics from [Shandong University](https://www.math.sdu.edu.cn/) and [Université Paris-Sud (Paris-Saclay)](https://www.universite-paris-saclay.fr/) in 2015, supervised by [Guizhen Liu](https://baike.baidu.com/item/%E5%88%98%E6%A1%82%E7%9C%9F/2050334) and [Hao Li](https://www.lri.fr/~li/).  
 
 ### Contact
 - **Email:** ghwang[at]sdu.edu.cn 
