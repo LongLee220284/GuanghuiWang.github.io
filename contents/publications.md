@@ -45,7 +45,7 @@
 - Longlong Li, Yipeng Zhang, <strong>Guanghui Wang</strong>, Kelin Xia*. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.  
   <strong>Nature Machine Intelligence (2025)</strong>. [[Paper]](https://www.nature.com/articles/s42256-025-01087-7)
 
-- Kai Yan, Zhiheng Zhou, Sihao Liu, <strong>Guanghui Wang</strong>*, Guiying Yan*, Edwin Wang*. Develop a Deep-Learning Model to Predict Cancer Immunotherapy Response Using In-Born Genomes.  
+- Kai Yan, Zhiheng Zhou, Sihao Liu, <strong>Guanghui Wang\*</strong>, Guiying Yan\*, Edwin Wang\*. Develop a Deep-Learning Model to Predict Cancer Immunotherapy Response Using In-Born Genomes.  
   <strong>IEEE Journal of Biomedical and Health Informatics (2025)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10944570)
   
 - Mengjie Chen, Ming Zhang, Guiying Yan, <strong>Guanghui Wang</strong>, Cunquan Qu*. MRHGNN: Enhanced Multimodal Relational Hypergraph Neural Network for Synergistic Drug Combination Forecasting.  
