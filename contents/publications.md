@@ -30,5 +30,5 @@
 - LaiHao Ding, <strong>Guanghui Wang</strong>, GuiYing Yan. Neighbor sum distinguishing total colorings via the Combinatorial Nullstellensatz.  
   <strong>Science China-mathematics (2014)</strong>. [[Paper]](https://link.springer.com/article/10.1007/s11425-014-4796-0)
   
-- JianSheng Cai, <strong>Guanghui Wang</strong>, GuiYing Yan. Planar graphs with maximum degree 8 and without intersecting chordal 4-cycles are 9-totally colorable.
+- JianSheng Cai, <strong>Guanghui Wang</strong>, GuiYing Yan. Planar graphs with maximum degree 8 and without intersecting chordal 4-cycles are 9-totally colorable.  
   <strong>Science China-mathematics (2012)</strong>. [[Paper]](https://link.springer.com/article/10.1007/s11425-012-4531-7)
