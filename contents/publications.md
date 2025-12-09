@@ -41,7 +41,7 @@
   <strong>Science China-mathematics (2012)</strong>. [[Paper]](https://link.springer.com/article/10.1007/s11425-012-4531-7)  
 
 
-### Selected Publications — Applications in Data Science  *( * indicates corresponding author )*  
+### Selected Publications — Applications in Data Science  ( * indicates corresponding author )
 - Longlong Li, Yipeng Zhang, <strong>Guanghui Wang</strong>, Kelin Xia*. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.  
   <strong>Nature Machine Intelligence (2025)</strong>. [[Paper]](https://www.nature.com/articles/s42256-025-01087-7)
 
