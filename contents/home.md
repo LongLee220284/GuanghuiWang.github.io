@@ -17,7 +17,8 @@ My research focuses on both the fundamental theory of combinatorics and its appl
 **Applications in Data Science**
 - Combinatorics-inspired machine learning models  
 - Graph neural networks and network science  
-- Computational biology and bioinformatics   
+- Computational biology and bioinformatics
+- Coding theory and channel coding  
 
 ### Awards & Honors
 - Changjiang Distinguished Professor, 2023  
