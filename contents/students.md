@@ -11,7 +11,7 @@
 - Zhiwei Zhang
 
 
-### Postdoc
+### Postdocs
 - [[Fan Yang]](https://dsi.sdu.edu.cn/szdw1/bsh.htm)
 - [[Fanpeng Song]](https://dsi.sdu.edu.cn/szdw1/bsh.htm)
 - [[Wanting Sun]](https://wanting-sun.github.io/)
