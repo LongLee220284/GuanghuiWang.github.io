@@ -131,3 +131,20 @@ section .main-body{
     font-weight: 700 !important;
 }
 
+.item-wrapper{
+    display:flex;
+    align-items:flex-start;
+    gap:1.2rem;
+    margin-bottom:1.6rem;
+}
+
+.item-wrapper img{
+    width:160px; /*可改 → 书封面120/海报200 */
+    border-radius:6px;
+    box-shadow:0 0 10px rgba(0,0,0,.15);
+}
+
+@media(max-width:900px){
+    .item-wrapper{flex-direction:column;}
+    .item-wrapper img{width:60%;max-width:260px;}
+}
