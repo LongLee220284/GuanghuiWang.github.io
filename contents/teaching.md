@@ -29,7 +29,7 @@
 
 - **Operations Research (5th Edition)**  
   [Link](https://book.douban.com/subject/36959426/)  
-  **Authors:** Zaiyun Diao, Xiaoxia Rong, <strong>Guanghui Wang</strong>, Bingqiang Liu, Guizhen Liu
+  **Authors:** Zaiyun Diao, Xiaoxia Rong, <strong>Guanghui Wang</strong>, Bingqiang Liu, Guizhen Liu  
 
 <div class="item-with-poster">
   <div class="item-text">
