@@ -53,5 +53,5 @@
 
 ### Former Visiting Students
 
-- Ming Chen ➔ (Jiangsu Normal University, Associate Professor)
+- Ming Chen ➔ (Jiangsu Normal University, Assistant Professor)
 - Minhui Li ➔ (Qinghai Normal University, Ph.D. Candidate)
