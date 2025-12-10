@@ -95,6 +95,7 @@ section .main-body{
 }
 
 
+
 #avatar {
     position: relative;
     height: 0;
@@ -114,6 +115,12 @@ section .main-body{
     #avatar {
         margin: 0;
     }
+}
+
+
+/* Fix strong not bold inside Publications section */
+#publications-md strong {
+    font-weight: 700 !important;
 }
 
 
