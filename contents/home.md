@@ -8,7 +8,7 @@ I obtained my Ph.D. in Mathematics from [Shandong University](https://www.math.s
 - <strong>Email</strong>: ghwang[at]sdu.edu.cn 
 
 ### Research Interests
-My research focuses on both the <strong>fundamental theory of combinatorics</strong> and its applications in <strong>data science</strong>, including:
+My research focuses on both the <strong>fundamental theory of combinatorics</strong> and its <strong>applications in data science</strong>, including:
 
 <strong>Fundamental Theory</strong>  
 - Extremal and probabilistic combinatorics  
