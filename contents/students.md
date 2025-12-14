@@ -9,6 +9,10 @@
 - Mengjie Chen
 - Mengyang Zhao
 - Zhiwei Zhang
+- Chencheng Ma
+- Ruilong Liu
+- Pingchuan Yang
+- Longma Du
 
 
 ### Postdocs
@@ -18,12 +22,12 @@
 - [[Tianjiao Dai]](https://tianjiaod.github.io/tianjiaodai2023.github.io/) 
 - [[Yun Wang]](https://dsi.sdu.edu.cn/szdw1/bsh.htm)
 - Qiancheng Ouyang
-- [[Wenlin Zhou]](https://wenling-zhou.github.io/)
 - Heng Li
 - Weichan Liu
 - Linpeng Zhang
 - Xinyu Hu
 - [[Xiangxiang Nie]](https://dsi.sdu.edu.cn/szdw1/bsh.htm)
+- Jialu Zhu
 
 ### Former Students
 - [[Laihao Ding]](https://maths.ccnu.edu.cn/info/1041/30773.htm) ➔ (Central China Normal University, Associate Professor)
@@ -34,6 +38,7 @@
 - Jie Hu ➔ (Nankai University, Associate Professor)
 - Hua Liu ➔ (Southern University of Science and Technology, Postdoc)
 - Jialin Bi ➔ (Shandong Jianzhu University, Assistant Professor)
+- [[Wenlin Zhou]](https://wenling-zhou.github.io/) ➔ (Shandong University, Postdoc)
 - Bin Wang ➔ (Beijing Institute of Technology, Postdoc)
 - [[Yangyang Cheng]](https://sites.google.com/view/yangyang-cheng/home) ➔ (University of Passau, Postdoc)
 - [[Ming Zhang]](https://teacher.bupt.edu.cn/zhangming12/zh_CN/index.htm) ➔ (Beijing University of Posts and Telecommunications, Master's Supervisor)
