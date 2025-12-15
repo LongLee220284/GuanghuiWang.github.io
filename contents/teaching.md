@@ -83,7 +83,7 @@ Organized by:
   
 </div>
   <div class="item-poster">
-    <img src="static/assets/img/2021_summer_school.jpeg" alt="Graph Theory poster">
+    <img src="static/assets/img/2021_summer_school.png" alt="Graph Theory poster">
   </div>
 </div>
 
@@ -97,7 +97,8 @@ Organized by:
   
 </div>
   <div class="item-poster">
-    <img src="static/assets/img/2020_summer_school.jpeg" alt="Graph Theory poster">
+    <img src="static/assets/img/2020_summer_school_1.jpeg" alt="Graph Theory poster">
+    <img src="static/assets/img/2020_summer_school_2.jpeg" alt="Graph Theory poster">
   </div>
 </div>
 
@@ -124,9 +125,105 @@ Organized by:
 
 ### Courses
 
-- **An Introduction to Applied Topology (Winter Course 2025)**  
-  Online · Nov 29, 2025 — Feb 7, 2026  
+<div class="item-with-poster">
+  <div class="item-text">
+    
+**Extremal Graph Theory (Spring 2023)**  
+  School of Mathematics, Shandong University  
+  Speakers: [Donglei Yang](https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.htm), Guanghui Wang  
   Role: **Initiator & Organizer**
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2023_courses.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
+
+<div class="item-with-poster">
+  <div class="item-text">
+    
+**Extremal Combinatorics (Fall 2022)**  
+  Online  
+  Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
+  Role: **Initiator & Organizer**  
+
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_courses_5.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
+
+<div class="item-with-poster">
+  <div class="item-text">
+    
+**Probabilistic Combinatorics (Fall 20222)**  
+School of Mathematics, Shandong University  
+  Role: **Initiator & Organizer**  
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_courses_4.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
+
+<div class="item-with-poster">
+  <div class="item-text">
+    
+**Discrete Geometry (Spring 2022)**  
+  Online  
+  Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
+  Role: **Initiator & Organizer**  
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_courses_3.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
+
+<div class="item-with-poster">
+<div class="item-text">
+
+**Extremal Graph Theory (Spring 2022)**  
+School of Mathematics, Shandong University  
+  Speakers: Guanghui Wang  
+  Role: **Initiator & Organizer**
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_courses_2.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
+
+<div class="item-with-poster">
+<div class="item-text">
+
+**Analysis of Boolean Functions (Spring 2022)**  
+  Online  
+  Role: **Initiator & Organizer**
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_courses_1.png" alt="Graph Theory poster">
+  </div>
+</div>
+
+<div class="item-text">
+
+**Frontiers of Combinatorics (Spring 2021)**  
+  Online  
+  Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
+  Role: **Initiator & Organizer**
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2021_courses.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
 
 ### Teaching
 
