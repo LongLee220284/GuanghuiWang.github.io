@@ -117,3 +117,17 @@ section .main-body{
 }
 
 
+/* Fix strong not bold inside Publications section */
+#publications-md strong {
+    font-weight: 700 !important;
+}
+
+#home-md strong {
+    font-weight: 700 !important;
+}
+
+#teaching-md strong {
+    font-weight: 700 !important;
+}
+
+
