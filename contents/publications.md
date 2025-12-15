@@ -24,12 +24,12 @@
 
 #### Preprints
 
-- <strong>Longlong Li+</strong>, Cunquan Qu*, and Guanghui Wang.  
-  Beyond Node Attention: Multi-Scale Harmonic Encoding for Feature-Wise Graph Message Passing.  
+- <strong>Longlong Li+</strong>, Mengyang Zhao, Guanghui Wang, and Cunquan Qu*. 
+  Multi-Scale Harmonic Encoding for Feature-Wise Graph Message Passing.  
   <strong>arXiv</strong>, 2025.  
   [[arXiv]](https://arxiv.org/abs/2505.15015)
 
-- <strong>Longlong Li+</strong>, Cunquan Qu*, and Guanghui Wang.  
+- <strong>Longlong Li+</strong>, Guanghui Wang, and Cunquan Qu*.  
   TGT: A Temporal Gating Transformer for Smartphone App Usage Prediction.  
   <strong>arXiv</strong>, 2025.  
   [[arXiv]](https://arxiv.org/abs/2502.16957)
