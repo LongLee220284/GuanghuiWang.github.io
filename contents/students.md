@@ -49,7 +49,7 @@
 - [[Shumin Sun]](https://warwick.ac.uk/fac/sci/maths/people/staff/sun/) ➔ (University of Warwick, Ph.D. Candidate)
 - [[Xu Zhang]](https://xuzhang29.github.io/) ➔ (Shandong University, Postdoc)
 - [[Yantao Tang]](https://dblp.org/pid/357/9585.html) ➔ (Georgia Institute of Technology, Ph.D. Candidate)
-- Hu Chen ➔ (The Ohio State University, Ph.D. Candidate)
+- [[Hu Chen]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2024/02/CV_huchen_en-023a259883199754.pdf) ➔ (The Ohio State University, Ph.D. Candidate)
 - Dongxu Chang ➔ (Huawei Technologies Co., Ltd, Senior Researcher)
 - [[Fan Chang]](https://fanchang1997.github.io/FanChangmath.github.io/) ➔ (Nankai University, Ph.D. Candidate)
 
