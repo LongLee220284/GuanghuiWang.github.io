@@ -1,4 +1,5 @@
-#### Selected Publications — Fundamental Theory of Combinatorics (Authors listed in alphabetical order)
+### Selected Publications — Fundamental Theory of Combinatorics  
+(Authors listed in alphabetical order)  
 
 <ol reversed>
   <li>Jie Han, Xichao Shu, <strong>Guanghui Wang</strong>. Non-linear Hamilton cycles in linear quasirandom and uniformly dense hypergraphs.<br>
@@ -44,7 +45,8 @@
 </ol>
 
 
-### Selected Publications — Applications in Data Science  (+ indicates equal contribution, * indicates corresponding author )
+## Selected Publications — Applications in Data Science  
+(+ indicates equal contribution, * indicates corresponding author)  
 <ol reversed>
   <li>Longlong Li+, Yipeng Zhang, <strong>Guanghui Wang</strong>, Kelin Xia*. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.<br>
       <strong>Nature Machine Intelligence (2025)</strong>. <a href="https://www.nature.com/articles/s42256-025-01087-7">Paper</a>
