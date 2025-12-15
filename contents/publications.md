@@ -1,4 +1,4 @@
-#### Published
+#### Published （+ indicates author, * indicates corresponding author）
 -  <strong>Longlong Li</strong>, Yipeng Zhang, Guanghui Wang and Kelin Xia*. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.
   <strong>Nature Machine Intelligence (2025)</strong>. [[Paper]](https://www.nature.com/articles/s42256-025-01087-7)
 
